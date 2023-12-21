@@ -1,0 +1,81 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+h1
+{
+    text-align: center;
+    color: #9EB8D9;
+    background-color: black;
+}
+h2{
+    text-align: center;
+    color: #F0ECE5;
+
+}
+.intro
+{
+    color: red;
+    text-align: center;
+}
+.edu
+{
+    color: red;
+    text-align: center;
+
+}
+.introimage img
+{
+    width: 100%;
+    height: auto;
+}
+.about
+{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display:block;
+    padding-right: 50px; /* Adjust the value to set the desired horizontal space */
+    font-size: 16px; 
+    
+}
+.aboutwhole h1
+{
+    text-align: center;
+    color: aqua;
+    font-style: italic;
+ 
+    
+}
+.text
+{
+    color: azure;
+    text-align: center;
+    text-decoration: double;
+    white-space: pre-line;
+    line-height: 100%;
+
+
+
+}
+.text h4
+{
+    font-size: larger;
+    color: red;
+
+    
+}
+.aboutwhole img
+{
+    height: 100px;
+    width: 200px;
+    padding-right: 300px;
+}
+.aboutwhole
+{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
